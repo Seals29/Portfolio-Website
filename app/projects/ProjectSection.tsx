@@ -9,7 +9,7 @@ import { GithubIcon } from "@/components/icons";
 const projects = [
   {
     title: "Job Linker",
-    description: "A comprehensive e-commerce platform featuring secure payment integration and real-time inventory management.",
+    description: "JobLinker is a unified analytics dashboard that consolidates real-time job market data scraped from major platforms like LinkedIn and JobStreet into a single, streamlined interface. The system leverages n8n automation workflows and relational databases to provide instant summaries of hiring trends, salary benchmarks, and job availability metrics. Built with a multi-container Docker architecture, JobLinker enables users to monitor scraping efficiency and gain strategic labor market insights through clean, data-driven visualizations.",
     image: "/assets/linker.jpeg",
     tools: ["Next.js", "Node.js", "Go", "Postgresql"],
     github: "https://github.com/Seals29/TPAWeb-Frontend/tree/main/src/pages",
